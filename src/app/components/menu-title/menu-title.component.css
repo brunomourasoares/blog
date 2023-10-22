@@ -1,0 +1,19 @@
+.container__menu-title {
+    color: white;
+  }
+  
+  .container__menu-title > h1 {
+    padding: 100px;
+    font-size: 100px;
+    font-family: 'segoe UI';
+    display: flex;
+    justify-content: center;
+    background-image: url('../../../assets/title.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+  }
+  
+  .container__menu-title > hr {
+    margin-bottom: 5px;
+  }
